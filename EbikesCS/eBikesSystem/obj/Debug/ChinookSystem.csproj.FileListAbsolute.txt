@@ -1,0 +1,15 @@
+C:\Users\kthibaudeau1\Desktop\Sep2018ClassroomDemo\ChinookCS\ChinookSystem\bin\Debug\ChinookSystem.dll.config
+C:\Users\kthibaudeau1\Desktop\Sep2018ClassroomDemo\ChinookCS\ChinookSystem\bin\Debug\ChinookSystem.dll
+C:\Users\kthibaudeau1\Desktop\Sep2018ClassroomDemo\ChinookCS\ChinookSystem\bin\Debug\ChinookSystem.pdb
+C:\Users\kthibaudeau1\Desktop\Sep2018ClassroomDemo\ChinookCS\ChinookSystem\bin\Debug\Chinook.Data.dll
+C:\Users\kthibaudeau1\Desktop\Sep2018ClassroomDemo\ChinookCS\ChinookSystem\bin\Debug\EntityFramework.dll
+C:\Users\kthibaudeau1\Desktop\Sep2018ClassroomDemo\ChinookCS\ChinookSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kthibaudeau1\Desktop\Sep2018ClassroomDemo\ChinookCS\ChinookSystem\bin\Debug\Chinook.Data.pdb
+C:\Users\kthibaudeau1\Desktop\Sep2018ClassroomDemo\ChinookCS\ChinookSystem\bin\Debug\Chinook.Data.dll.config
+C:\Users\kthibaudeau1\Desktop\Sep2018ClassroomDemo\ChinookCS\ChinookSystem\bin\Debug\EntityFramework.xml
+C:\Users\kthibaudeau1\Desktop\Sep2018ClassroomDemo\ChinookCS\ChinookSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kthibaudeau1\Desktop\Sep2018ClassroomDemo\ChinookCS\ChinookSystem\obj\Debug\ChinookSystem.csprojAssemblyReference.cache
+C:\Users\kthibaudeau1\Desktop\Sep2018ClassroomDemo\ChinookCS\ChinookSystem\obj\Debug\ChinookSystem.csproj.CoreCompileInputs.cache
+C:\Users\kthibaudeau1\Desktop\Sep2018ClassroomDemo\ChinookCS\ChinookSystem\obj\Debug\ChinookSystem.csproj.CopyComplete
+C:\Users\kthibaudeau1\Desktop\Sep2018ClassroomDemo\ChinookCS\ChinookSystem\obj\Debug\ChinookSystem.dll
+C:\Users\kthibaudeau1\Desktop\Sep2018ClassroomDemo\ChinookCS\ChinookSystem\obj\Debug\ChinookSystem.pdb
